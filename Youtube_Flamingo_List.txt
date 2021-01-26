@@ -1,10 +1,10 @@
-https://www.youtube.com/watch?v=QnUowVD6Tu4
+127.0.0.1 https://www.youtube.com/watch?v=QnUowVD6Tu4
 https://www.youtube.com/watch?v=3ikMdHRuFbk
 https://www.youtube.com/watch?v=iVa53THlqRk
 https://www.youtube.com/watch?v=8TMMp9BD89A
 https://www.youtube.com/watch?v=CuMZS7OKj1I
 https://www.youtube.com/watch?v=0SvS215DIFg
-https://www.youtube.com/watch?v=cs7pzQpoK3o
+127.0.0.1 https://www.youtube.com/watch?v=cs7pzQpoK3o
 https://www.youtube.com/watch?v=W73wYoVMZks
 https://www.youtube.com/watch?v=NS53wAMKr-E
 https://www.youtube.com/watch?v=aZ7vKYcjKQ4
